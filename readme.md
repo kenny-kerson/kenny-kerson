@@ -15,3 +15,10 @@
 - https://bit.ly/2DbKKx6
 
 ## [ Library ]
+
+## Appendix
+### ✔︎ Study Repository
+- MyBatis Spring Boot Demo : https://github.com/kenny-kerson/mybatis-springboot-demo
+- Modern Java Study : https://github.com/kenny-kerson/modern-java-study
+- Vue.js Study : https://github.com/kenny-kerson/vuejs-study-phase1
+- React.js Study : https://github.com/kenny-kerson/reactjs-study-phase1
