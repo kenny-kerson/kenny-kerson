@@ -19,6 +19,7 @@
 ## Appendix
 ### ✔︎ Study Repository
 - MyBatis Spring Boot Demo : https://github.com/kenny-kerson/mybatis-springboot-demo
+- Gradle Mutil Module Demo : https://github.com/kenny-kerson/gradle-multi-module-sample
 - Modern Java Study : https://github.com/kenny-kerson/modern-java-study
 - Vue.js Study : https://github.com/kenny-kerson/vuejs-study-phase1
 - React.js Study : https://github.com/kenny-kerson/reactjs-study-phase1
