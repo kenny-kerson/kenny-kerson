@@ -7,7 +7,7 @@
 ### ✔︎ Stream - Java 8
 - https://bit.ly/3hD1MTQ
 
-### ✔ CompletableFuture - Java 8
+### ✔︎ CompletableFuture - Java 8
 - https://bit.ly/3jGPKLa
 
 ## [ Design or Concept ]
