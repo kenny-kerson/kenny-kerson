@@ -1,12 +1,12 @@
 # 고동균( kenny.k )
 
-## Career Despcription
+## # Career Despcription
 - https://kennywithbella.slite.com/api/s/note/Vt9WHcr45996fAJXgogaJM/Career-Description
 
-## Tech Note
+## # Tech Note
 - https://kennywithbella.slite.com/api/s/channel/WLFD4oGJhk1zNE2UB2tyGM/Tech
 
-## Repository
+## # Repository
 - Modern Java Study : https://github.com/kenny-kerson/modern-java-study
 - MyBatis Spring Boot Demo : https://github.com/kenny-kerson/mybatis-springboot-demo
 - Gradle Mutil Module Demo : https://github.com/kenny-kerson/gradle-multi-module-sample
